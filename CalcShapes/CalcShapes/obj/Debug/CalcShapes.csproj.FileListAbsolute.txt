@@ -1,0 +1,10 @@
+C:\Users\Andre\source\repos\BasicConcepts\CalcShapes\CalcShapes\bin\Debug\CalcShapes.exe.config
+C:\Users\Andre\source\repos\BasicConcepts\CalcShapes\CalcShapes\bin\Debug\CalcShapes.exe
+C:\Users\Andre\source\repos\BasicConcepts\CalcShapes\CalcShapes\bin\Debug\CalcShapes.pdb
+C:\Users\Andre\source\repos\BasicConcepts\CalcShapes\CalcShapes\obj\Debug\CalcShapes.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\BasicConcepts\CalcShapes\CalcShapes\obj\Debug\CalcShapes.Form1.resources
+C:\Users\Andre\source\repos\BasicConcepts\CalcShapes\CalcShapes\obj\Debug\CalcShapes.Properties.Resources.resources
+C:\Users\Andre\source\repos\BasicConcepts\CalcShapes\CalcShapes\obj\Debug\CalcShapes.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\BasicConcepts\CalcShapes\CalcShapes\obj\Debug\CalcShapes.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\BasicConcepts\CalcShapes\CalcShapes\obj\Debug\CalcShapes.exe
+C:\Users\Andre\source\repos\BasicConcepts\CalcShapes\CalcShapes\obj\Debug\CalcShapes.pdb

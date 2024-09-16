@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcShapes", "CalcShapes\CalcShapes.csproj", "{C7D424A5-4A23-4C5C-AA5A-687044FFD919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7D424A5-4A23-4C5C-AA5A-687044FFD919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D424A5-4A23-4C5C-AA5A-687044FFD919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D424A5-4A23-4C5C-AA5A-687044FFD919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D424A5-4A23-4C5C-AA5A-687044FFD919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D601C08A-E99E-4D45-91FE-40A41BF3B57B}
+	EndGlobalSection
+EndGlobal
